@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://KaranMoyaje369.github.io/React-Routing",
+  "homepage": "https://KaranMoyaje369.github.io/react-routing",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
